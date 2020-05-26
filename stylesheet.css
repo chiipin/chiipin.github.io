@@ -1,0 +1,29 @@
+.index h1 {
+	background-color: #00CC66;
+	color: white;
+	text-align: center;
+}
+
+.index h2 {
+	background: #00FF99;
+}
+
+.htmlCss h2 {
+	background: #00FF99;
+	text-align: center;
+}
+
+.htmlCss h3 {
+	background: #99FF99;
+}
+
+.titleH3 h3 {
+	background: #99FF99;
+	text-align: center;
+}
+
+.titleH4 h4 {
+	background: #006600;
+	color: white;
+	text-align: center;
+}
